@@ -1,7 +1,7 @@
 # alikhan serikov
 
 stanford 
-mechanical · embedded systems · robotics
+engineering· embedded systems · robotics
 
 learning: cad · motor control · firmware · simulation
 
